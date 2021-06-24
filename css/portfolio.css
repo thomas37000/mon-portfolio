@@ -164,6 +164,7 @@ button {
 
 .headingCv {
   text-align: center;
+  background: #7ACD66;
 }
 
 .contents {
@@ -221,6 +222,10 @@ input {
   margin: 10px;
   padding: 10px;
   border-radius: 5px;
+}
+
+.cv {
+  color: #fff;
 }
 
 footer {
