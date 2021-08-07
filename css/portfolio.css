@@ -201,7 +201,7 @@ img {
   padding: 1rem;
 }
 
-.github {
+.github, .codepen, .codesandbox {
   width: auto;
   height: 50px;
 }
